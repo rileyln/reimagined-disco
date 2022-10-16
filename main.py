@@ -1,6 +1,3 @@
-from datetime import datetime
-
-
 class Pet:
     '''
     pets have behaviors and attributes
@@ -17,7 +14,7 @@ class Pet:
         'Blep', 'Heart Snake', 'Hissy Snake', 'Yoshi', 'Arbok',
         'Ekans', 'Visaj', 'Testudo', 'Guard Snake',
         'British Snake', 'Snake', 'Hissy', 'Teeny Slither',
-        'Slither Buddy', 'Cane Snake'
+        'Slither Buddy', 'Cane Snake', 'Robo Snake'
     )
 
     voices = {
